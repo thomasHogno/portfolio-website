@@ -41,7 +41,7 @@ function Portfolio() {
 
             <section className="portfolio-content">
                 <h2>Under Construction</h2>
-                <p>heres a colour picker in the meantime!</p>               
+                <p>heres a colour picker in the meantime! Or look at my <a href='https://github.com/thomasHogno'>Github</a></p>               
                 <h2>list</h2>
                 <ul>
                     <li>item 1</li>
