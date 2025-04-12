@@ -40,11 +40,13 @@ function Portfolio() {
             </div>
 
             <section className="portfolio-content">
-                <h2>About Me</h2>
+                <h2>Under Construction</h2>
                 <p>Hello!</p>               
-                <h2>Projects</h2>
+                <h2>list</h2>
                 <ul>
-                    <li>Project 1</li>
+                    <li>item 1</li>
+                    <li>item 2</li>
+                    <li>item 3</li>
                 </ul>
             </section>
 
